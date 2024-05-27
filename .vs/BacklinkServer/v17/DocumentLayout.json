@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Backlink-Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|D:\\Github\\Backlink-Server\\backlinkserver\\proxies\\proxysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|solutionrelative:backlinkserver\\proxies\\proxysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|D:\\Github\\Backlink-Server\\backlinkserver\\proxies\\proxychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|solutionrelative:backlinkserver\\proxies\\proxychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|D:\\Github\\Backlink-Server\\backlinkserver\\proxies\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|solutionrelative:backlinkserver\\proxies\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|D:\\Github\\Backlink-Server\\backlinkserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|solutionrelative:backlinkserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|D:\\Github\\Backlink-Server\\backlinkserver\\tcp\\tcpfuncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|solutionrelative:backlinkserver\\tcp\\tcpfuncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|D:\\Github\\Backlink-Server\\backlinkserver\\tcp\\send.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|solutionrelative:backlinkserver\\tcp\\send.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|d:\\github\\backlink-server\\backlinkserver\\tcp\\receive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|solutionrelative:backlinkserver\\tcp\\receive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|D:\\Github\\Backlink-Server\\backlinkserver\\scraper\\googlescraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|solutionrelative:backlinkserver\\scraper\\googlescraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|D:\\Github\\Backlink-Server\\backlinkserver\\logmanager\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|solutionrelative:backlinkserver\\logmanager\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|D:\\Github\\Backlink-Server\\backlinkserver\\logmanager\\elogtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC23B41-C911-4033-B078-E483D876A6FB}|BacklinkServer\\BacklinkServer.csproj|solutionrelative:backlinkserver\\logmanager\\elogtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProxyChecker.cs",
+              "DocumentMoniker": "D:\\Github\\Backlink-Server\\BacklinkServer\\Proxies\\ProxyChecker.cs",
+              "RelativeDocumentMoniker": "BacklinkServer\\Proxies\\ProxyChecker.cs",
+              "ToolTip": "D:\\Github\\Backlink-Server\\BacklinkServer\\Proxies\\ProxyChecker.cs",
+              "RelativeToolTip": "BacklinkServer\\Proxies\\ProxyChecker.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:00:31.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TCPFuncs.cs",
+              "DocumentMoniker": "D:\\Github\\Backlink-Server\\BacklinkServer\\TCP\\TCPFuncs.cs",
+              "RelativeDocumentMoniker": "BacklinkServer\\TCP\\TCPFuncs.cs",
+              "ToolTip": "D:\\Github\\Backlink-Server\\BacklinkServer\\TCP\\TCPFuncs.cs",
+              "RelativeToolTip": "BacklinkServer\\TCP\\TCPFuncs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:00:31.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Send.cs",
+              "DocumentMoniker": "D:\\Github\\Backlink-Server\\BacklinkServer\\TCP\\Send.cs",
+              "RelativeDocumentMoniker": "BacklinkServer\\TCP\\Send.cs",
+              "ToolTip": "D:\\Github\\Backlink-Server\\BacklinkServer\\TCP\\Send.cs",
+              "RelativeToolTip": "BacklinkServer\\TCP\\Send.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:00:31.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Receive.cs",
+              "DocumentMoniker": "D:\\Github\\Backlink-Server\\BacklinkServer\\TCP\\Receive.cs",
+              "RelativeDocumentMoniker": "BacklinkServer\\TCP\\Receive.cs",
+              "ToolTip": "D:\\Github\\Backlink-Server\\BacklinkServer\\TCP\\Receive.cs",
+              "RelativeToolTip": "BacklinkServer\\TCP\\Receive.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:00:31.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\Github\\Backlink-Server\\BacklinkServer\\LogManager\\Logger.cs",
+              "RelativeDocumentMoniker": "BacklinkServer\\LogManager\\Logger.cs",
+              "ToolTip": "D:\\Github\\Backlink-Server\\BacklinkServer\\LogManager\\Logger.cs",
+              "RelativeToolTip": "BacklinkServer\\LogManager\\Logger.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:00:31.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ELogTypes.cs",
+              "DocumentMoniker": "D:\\Github\\Backlink-Server\\BacklinkServer\\LogManager\\ELogTypes.cs",
+              "RelativeDocumentMoniker": "BacklinkServer\\LogManager\\ELogTypes.cs",
+              "ToolTip": "D:\\Github\\Backlink-Server\\BacklinkServer\\LogManager\\ELogTypes.cs",
+              "RelativeToolTip": "BacklinkServer\\LogManager\\ELogTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:00:31.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proxy.cs",
+              "DocumentMoniker": "D:\\Github\\Backlink-Server\\BacklinkServer\\Proxies\\Proxy.cs",
+              "RelativeDocumentMoniker": "BacklinkServer\\Proxies\\Proxy.cs",
+              "ToolTip": "D:\\Github\\Backlink-Server\\BacklinkServer\\Proxies\\Proxy.cs",
+              "RelativeToolTip": "BacklinkServer\\Proxies\\Proxy.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:00:31.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProxySettings.cs",
+              "DocumentMoniker": "D:\\Github\\Backlink-Server\\BacklinkServer\\Proxies\\ProxySettings.cs",
+              "RelativeDocumentMoniker": "BacklinkServer\\Proxies\\ProxySettings.cs",
+              "ToolTip": "D:\\Github\\Backlink-Server\\BacklinkServer\\Proxies\\ProxySettings.cs",
+              "RelativeToolTip": "BacklinkServer\\Proxies\\ProxySettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:00:31.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GoogleScraper.cs",
+              "DocumentMoniker": "D:\\Github\\Backlink-Server\\BacklinkServer\\Scraper\\GoogleScraper.cs",
+              "RelativeDocumentMoniker": "BacklinkServer\\Scraper\\GoogleScraper.cs",
+              "ToolTip": "D:\\Github\\Backlink-Server\\BacklinkServer\\Scraper\\GoogleScraper.cs",
+              "RelativeToolTip": "BacklinkServer\\Scraper\\GoogleScraper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:00:31.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Backlink-Server\\BacklinkServer\\Program.cs",
+              "RelativeDocumentMoniker": "BacklinkServer\\Program.cs",
+              "ToolTip": "D:\\Github\\Backlink-Server\\BacklinkServer\\Program.cs",
+              "RelativeToolTip": "BacklinkServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:00:31.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
